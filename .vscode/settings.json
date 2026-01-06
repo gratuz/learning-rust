@@ -1,0 +1,12 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "inlayHints": {
+        "typeHints": false,
+        "parameterHints": false
+    },
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.inlayHints.parameterHints.enable": false,
+    "rust-analyzer.inlayHints.chainingHints.enable": false,    
+    // further configuration
+    
+}
